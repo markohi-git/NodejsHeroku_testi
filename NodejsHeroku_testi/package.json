@@ -1,0 +1,9 @@
+{
+  "name": "nodejs-heroku_testi",
+  "version": "0.0.0",
+  "description": "NodejsHeroku_testi",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  }
+}
